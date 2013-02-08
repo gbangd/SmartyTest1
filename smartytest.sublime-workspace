@@ -1,0 +1,357 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arra",
+				"array()"
+			],
+			[
+				"cons",
+				"constants"
+			],
+			[
+				"in",
+				"input	input - button"
+			],
+			[
+				"con",
+				"consulta"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"requi",
+				"require_once"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"get",
+				"getElementByTagName"
+			],
+			[
+				"X",
+				"XMLHttpRequest"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 1043,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 1402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conexion_bd.php",
+			"settings":
+			{
+				"buffer_size": 1190,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 255.0,
+		"selected_items":
+		[
+			[
+				"git:ad",
+				"Git: Add Current File"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"Git",
+				"Git: Init"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: List Packages"
+			],
+			[
+				"pacc",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Gustavo",
+		"/B/Proyectos C#/Investigacion/Amat/Amat/Mundo/ConexionDB.cs",
+		"/C/wamp/www/2012/SmartyTest1/include/js/jsTelar.js",
+		"/C/wamp/www/2012/SmartyTest1/templates/index.tpl",
+		"/C/wamp/www/2012/SmartyTest1/controller.php",
+		"/C/wamp/www/2012/Jaidy/Telar/php/eliminar_clientes.php",
+		"/C/wamp/www/2012/Jaidy/Telar/php/consultar_saldo.php",
+		"/C/wamp/www/2012/SmartyTest1/form.php",
+		"/C/wamp/www/2012/SmartyTest1/configs/test.conf",
+		"/C/wamp/www/2012/SmartyTest1/conexion_bd.php",
+		"/C/wamp/www/2012/Jquery Activities/js/uno.js",
+		"/C/wamp/www/2012/Jquery Activities/js/dos.js",
+		"/C/wamp/www/2012/Jquery Activities/uno.html",
+		"/C/wamp/www/2012/Jaidy/Telar/php/listar_clientes.php",
+		"/C/wamp/www/2012/SmartyTest1/configs/jsTelar.js",
+		"/C/wamp/www/2012/SmartyTest1/templates/jsTelar.js",
+		"/C/wamp/www/2012/SmartyTest1/templates/js/jsTelar.js",
+		"/C/wamp/www/2012/Jaidy/Telar/mercancia.php",
+		"/C/wamp/www/2012/SmartyTest1/configs/constants.php",
+		"/C/wamp/www/2012/MVC Pattern/vistalogic.php",
+		"/C/wamp/www/2012/MVC Pattern/model.php",
+		"/C/wamp/www/2012/MVC Pattern/controller.php",
+		"/C/wamp/www/2012/Smartphones/agregar_carrito.php",
+		"/C/wamp/www/2012/Smartphones/listar_clientes.php",
+		"/C/wamp/www/2012/SmartyTest1/constants.php",
+		"/C/wamp/www/2012/SmartyTest1/conexion_bd",
+		"/C/wamp/www/2012/SmartyTest1/setup.php",
+		"/C/wamp/www/2012/AJAX Activities/carpeta/constructor.js",
+		"/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/wamp/www/2012/AJAX Activities/constructor.js",
+		"/C/wamp/www/2012/AJAX Activities/jquery.js",
+		"/C/wamp/www/2012/AJAX Activities/hola.js",
+		"/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/2012/AJAX Activities/datos.xml",
+		"/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/wamp/www/2012/AJAX Activities/primer.html",
+		"/C/wamp/www/2012/AJAX Activities/readerxml.js",
+		"/C/wamp/www/2012/Jquery Activities/js/tres.js",
+		"/C/wamp/www/2012/AJAX Activities/primero",
+		"/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/2012/Jaidy/Telar/clientes.php",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/testmysql.php",
+		"/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"			\n",
+			"\">",
+			"htm",
+			"<script src=\"js/slideshow.push.js\"></script>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 1043,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								195,
+								195
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 1402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "conexion_bd.php",
+					"settings":
+					{
+						"buffer_size": 1190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1165,
+								1165
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 399.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.git":
+	{
+		"height": 122.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true
+}
