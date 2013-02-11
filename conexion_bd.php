@@ -40,30 +40,15 @@ class Manejo_bd
 		}
 		
 	}
-
-	function imprimir()
-	{
-		$query="SELECT *
-       	FROM empleados";
-
-		$vector_datos = $this->consulta($query);
-
-		while ($registros=  mysql_fetch_row($vector_datos))
-        {
-        	echo $registros[1]."  ".$registros[2]."<br/>";
-        }
-        
-        $this->desconectar();
-    }
-
+	
     function obtenerDatos($vector_data = array())
     {
     	
     	if($vector_data)
     	{
     		$data = array();
-
-			while($registros = mysql_fetch_array($vector_data))
+    		    		
+    		while($registros = mysql_fetch_array($vector_data))
 			{
 				$data[] = $registros;
 			}
@@ -72,6 +57,11 @@ class Manejo_bd
 			return $data;	
     	}
     	
+    }
+
+    function filas_afectadas()
+    {
+    	return mysql_affected_rows($this->db_link);
     }
 }
 

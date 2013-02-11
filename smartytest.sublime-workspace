@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"model",
+				"modelo"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Li",
+				"link	Tag"
+			],
+			[
 				"arra",
 				"array()"
 			],
@@ -51,15 +63,31 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 1043,
+				"buffer_size": 1381,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+			"file": "templates/eliminado.tpl",
 			"settings":
 			{
-				"buffer_size": 1402,
+				"buffer_size": 142,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/usuario.css",
+			"settings":
+			{
+				"buffer_size": 72,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/2012/Smartphones/registrar_la_compra.php",
+			"settings":
+			{
+				"buffer_size": 1589,
 				"line_ending": "Unix"
 			}
 		},
@@ -67,7 +95,39 @@
 			"file": "conexion_bd.php",
 			"settings":
 			{
-				"buffer_size": 1190,
+				"buffer_size": 1206,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/listaUsuario.tpl",
+			"settings":
+			{
+				"buffer_size": 503,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/index.tpl",
+			"settings":
+			{
+				"buffer_size": 171,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/footer.tpl",
+			"settings":
+			{
+				"buffer_size": 1052,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/a",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Windows"
 			}
 		}
@@ -75,16 +135,52 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 255.0,
+		"height": 336.0,
 		"selected_items":
 		[
 			[
-				"git:ad",
-				"Git: Add Current File"
+				"add",
+				"Git: Add..."
 			],
 			[
 				"git",
 				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"gitad",
+				"Git: Add..."
+			],
+			[
+				"git:st",
+				"Git: Status"
+			],
+			[
+				"git:ad",
+				"Git: Add Current File"
 			],
 			[
 				"Git",
@@ -124,6 +220,12 @@
 	},
 	"file_history":
 	[
+		"/C/wamp/www/2012/SmartyTest1/templates/listaCliente",
+		"/C/wamp/www/2012/SmartyTest1/conexion_bd.php",
+		"/C/wamp/www/2012/SmartyTest1/templates/style.css",
+		"/C/wamp/www/2012/Smartphones/buscar_producto.php",
+		"/C/wamp/www/2012/SmartyTest1/README",
+		"/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
 		"/C/Users/Gustavo",
 		"/B/Proyectos C#/Investigacion/Amat/Amat/Mundo/ConexionDB.cs",
 		"/C/wamp/www/2012/SmartyTest1/include/js/jsTelar.js",
@@ -133,7 +235,6 @@
 		"/C/wamp/www/2012/Jaidy/Telar/php/consultar_saldo.php",
 		"/C/wamp/www/2012/SmartyTest1/form.php",
 		"/C/wamp/www/2012/SmartyTest1/configs/test.conf",
-		"/C/wamp/www/2012/SmartyTest1/conexion_bd.php",
 		"/C/wamp/www/2012/Jquery Activities/js/uno.js",
 		"/C/wamp/www/2012/Jquery Activities/js/dos.js",
 		"/C/wamp/www/2012/Jquery Activities/uno.html",
@@ -206,7 +307,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -214,15 +315,15 @@
 					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 1043,
+						"buffer_size": 1381,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								195,
-								195
+								1194,
+								1194
 							]
 						],
 						"settings":
@@ -231,31 +332,30 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 958.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/Gustavo Banguera/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+					"file": "templates/eliminado.tpl",
 					"settings":
 					{
-						"buffer_size": 1402,
+						"buffer_size": 142,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								221,
-								221
+								142,
+								142
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -265,18 +365,72 @@
 				},
 				{
 					"buffer": 2,
-					"file": "conexion_bd.php",
+					"file": "templates/usuario.css",
 					"settings":
 					{
-						"buffer_size": 1190,
+						"buffer_size": 72,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1165,
-								1165
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/2012/Smartphones/registrar_la_compra.php",
+					"settings":
+					{
+						"buffer_size": 1589,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								620
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "conexion_bd.php",
+					"settings":
+					{
+						"buffer_size": 1206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1138,
+								1138
 							]
 						],
 						"settings":
@@ -284,7 +438,114 @@
 							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 399.0,
+						"translation.y": 680.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/listaUsuario.tpl",
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "templates/index.tpl",
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "templates/footer.tpl",
+					"settings":
+					{
+						"buffer_size": 1052,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1052,
+								1052
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 160.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "templates/a",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
