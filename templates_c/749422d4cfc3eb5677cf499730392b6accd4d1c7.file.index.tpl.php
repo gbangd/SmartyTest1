@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.8, created on 2013-02-11 02:33:52
+<?php /* Smarty version Smarty-3.1.8, created on 2013-02-11 02:51:39
          compiled from ".\templates\index.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2381651047232b82849-39488062%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '749422d4cfc3eb5677cf499730392b6accd4d1c7' => 
     array (
       0 => '.\\templates\\index.tpl',
-      1 => 1360549968,
+      1 => 1360551069,
       2 => 'file',
     ),
   ),
@@ -28,11 +28,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 <head>
 	<title><?php echo smarty_modifier_truncate($_smarty_tpl->getConfigVariable('title'),25,"...");?>
 </title>
-	<link rel="stylesheet" type="text/css" src="templates/usuario.css"/>
-	<script type="text/javascript" src="<?php echo $_smarty_tpl->getConfigVariable('jscript');?>
-/jquery.js"></script>
-	<script type="text/javascript" src="<?php echo $_smarty_tpl->getConfigVariable('jscript');?>
-/jsTelar.js"></script>
+	<link rel="stylesheet" type="text/css" href="include/css/usuario.css"/>
 </head>
 <body>
 	

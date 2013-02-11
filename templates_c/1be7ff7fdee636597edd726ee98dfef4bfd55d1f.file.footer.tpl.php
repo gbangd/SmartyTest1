@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.8, created on 2013-02-11 02:15:04
+<?php /* Smarty version Smarty-3.1.8, created on 2013-02-11 02:48:21
          compiled from ".\templates\footer.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:43205115101eca7ff1-33770739%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '1be7ff7fdee636597edd726ee98dfef4bfd55d1f' => 
     array (
       0 => '.\\templates\\footer.tpl',
-      1 => 1360548245,
+      1 => 1360550875,
       2 => 'file',
     ),
   ),
@@ -47,7 +47,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</div>
 
 </div>
-
+	
+	<?php  $_config = new Smarty_Internal_Config("configs/test.conf", $_smarty_tpl->smarty, $_smarty_tpl);$_config->loadConfigVars(null, 'local'); ?>
 	<script type="text/javascript" src="<?php echo $_smarty_tpl->getConfigVariable('jscript');?>
 /jquery.js"></script>
 	<script type="text/javascript" src="<?php echo $_smarty_tpl->getConfigVariable('jscript');?>

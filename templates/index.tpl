@@ -5,9 +5,7 @@
 <html>
 <head>
 	<title>{#title#|truncate:25:"..."}</title>
-	<link rel="stylesheet" type="text/css" src="templates/usuario.css"/>
-	<script type="text/javascript" src="{#jscript#}/jquery.js"></script>
-	<script type="text/javascript" src="{#jscript#}/jsTelar.js"></script>
+	<link rel="stylesheet" type="text/css" href="include/css/usuario.css"/>
 </head>
 <body>
 	

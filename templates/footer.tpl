@@ -26,7 +26,8 @@
 	</div>
 
 </div>
-
+	
+	{config_load file="configs/test.conf"}
 	<script type="text/javascript" src="{#jscript#}/jquery.js"></script>
 	<script type="text/javascript" src="{#jscript#}/jsTelar.js"></script>
 </body>
