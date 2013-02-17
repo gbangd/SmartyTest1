@@ -6,7 +6,9 @@
 <head>
 	<title>{#title#|truncate:25:"..."}</title>
 	<link rel="stylesheet" type="text/css" href="include/css/usuario.css"/>
+	
 </head>
 <body>
+
 	
 	
